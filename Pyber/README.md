@@ -1,4 +1,11 @@
+Analysis
 
+    - Average fare per city is highest on rural followed by suburban and urban.
+    - Total number of ride per city is highest on urban followed by suburban and rural.
+    - Overall, average fare and number of rides have negative correlationship.
+    - Total rides are highest on urban areas, lowest on rural areas.
+    - Total drivers have much more difference between the city types compared to their total rides, which means there are more 
+      drivers per ride in urban areas.
 
 ```python
 #import libraries
@@ -141,7 +148,7 @@ g.savefig('bubble.png')
 ```
 
 
-![png](output_3_0.png)
+![png](output_4_0.png)
 
 
 
@@ -158,7 +165,7 @@ plt.savefig('fare by city type.png')
 ```
 
 
-![png](output_4_0.png)
+![png](output_5_0.png)
 
 
 
@@ -173,7 +180,7 @@ plt.savefig('ride by city type.png')
 ```
 
 
-![png](output_5_0.png)
+![png](output_6_0.png)
 
 
 
@@ -190,5 +197,5 @@ plt.savefig('drivers by city type.png')
 ```
 
 
-![png](output_6_0.png)
+![png](output_7_0.png)
 
