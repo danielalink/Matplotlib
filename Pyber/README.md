@@ -148,7 +148,7 @@ g.savefig('bubble.png')
 ```
 
 
-![png](bubble.png)
+[png](bubble.png)
 
 
 
@@ -165,7 +165,7 @@ plt.savefig('fare by city type.png')
 ```
 
 
-![png](fare by city type.png)
+[png](fare by city type.png)
 
 
 
@@ -180,7 +180,7 @@ plt.savefig('ride by city type.png')
 ```
 
 
-![png](ride by city type.png)
+[png](ride by city type.png)
 
 
 
@@ -197,5 +197,5 @@ plt.savefig('drivers by city type.png')
 ```
 
 
-![png](drivers by city type.png)
+[png](drivers by city type.png)
 
