@@ -165,7 +165,7 @@ plt.savefig('fare by city type.png')
 ```
 
 
-![png](fare by city type.png)
+![png](fare_by_city_type.png)
 
 
 
@@ -180,7 +180,7 @@ plt.savefig('ride by city type.png')
 ```
 
 
-![png](ride by city type.png)
+![png](ride_by_city_type.png)
 
 
 
@@ -197,5 +197,5 @@ plt.savefig('drivers by city type.png')
 ```
 
 
-![png](drivers by city type.png)
+![png](drivers_by_city_type.png)
 
