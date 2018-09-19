@@ -40,7 +40,7 @@ As final considerations:
 * You must include an exported markdown version of your Notebook called  `README.md` in your GitHub repository.
 * See [Example Solution](Pyber/Pyber_Example.pdf) for a reference on expected format.
 
-## Option 2: [Pymaceuticals Inc](../../tree/master/Pymaceuticals)
+## Option 2: [Pymaceuticals Inc](Pymaceuticals/Pymaceuticals_analysis.ipynb)
 
 ![Laboratory](Images/Laboratory.jpg)
 
