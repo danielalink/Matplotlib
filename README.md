@@ -6,7 +6,7 @@ What good is data without a good plot to tell the story?
 
 So, let's take what you've learned about Python Matplotlib and apply it to some real-world situations. For this assignment, you'll need to complete **1 of 2** Data Challenges. As always, it's your choice which you complete. _Perhaps_, choose the one most relevant to your future career.
 
-## Option 1: [Pyber](../../Pyber)
+## Option 1: [Pyber](../../tree/master/Pyber)
 
 ![Ride](Images/Ride.png)
 
@@ -40,7 +40,7 @@ As final considerations:
 * You must include an exported markdown version of your Notebook called  `README.md` in your GitHub repository.
 * See [Example Solution](Pyber/Pyber_Example.pdf) for a reference on expected format.
 
-## Option 2: [Pymaceuticals Inc](../../Pymaceuticals)
+## Option 2: [Pymaceuticals Inc](../../tree/master/Pymaceuticals)
 
 ![Laboratory](Images/Laboratory.jpg)
 
